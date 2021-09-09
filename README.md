@@ -1,2 +1,2 @@
-# jodo_da_cobrinha
+# jogo_da_cobrinha
 Jogo da cobrinha 
